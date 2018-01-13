@@ -1,5 +1,7 @@
 ## WEEK 1: ASSIGNMENT
 
+The following below has been implemented: Thanks.
+
 Your first assignment is to create a basic web page with HTML and CSS.  Your page must
 include the picture of any actor/actress, a heading with their name, and a link to their wikipedia
 page.  Underneath should be a table that lists some their movies, under table headers labeled title
